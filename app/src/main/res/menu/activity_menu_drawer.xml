@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_lista_produtos"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Lista produtos" />
+        <item
+            android:id="@+id/nav_fazer_pedido"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Fazer pedido" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Slideshow" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Tools" />
+    </group>
+
+    <item android:title="Cadastros">
+        <menu>
+            <item
+                android:id="@+id/nav_cadastro_usuario"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Cadastro de Usuário" />
+            <item
+                android:id="@+id/nav_cadastro_produto"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Cadastro de Produto" />
+        </menu>
+    </item>
+
+</menu>

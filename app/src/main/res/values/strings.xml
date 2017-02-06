@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mr.Goose</string>
+    <string name="endereco">Endereço</string>
+    <string name="numero">Número</string>
+    <string name="cidade">Cidade</string>
+    <string name="uf">UF</string>
+    <string name="cep">Cep</string>
+    <string name="email">E-mail</string>
+    <string name="nome">Nome</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="title_activity_menu">Mr.Goose</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
